@@ -14,7 +14,7 @@
     { "name": "Franco Pla", "guests": 3 },
     { "name": "Felisa Rocha", "guests": 1 },
     { "name": "Carlos Rocha", "guests": 4 },
-    { "name": "Luis Sonia", "guests": 1 },
+    { "name": "Luis Soria", "guests": 1 },
     { "name": "Noelia Avila", "guests": 1 },
     { "name": "Juana Rosa Del Villar Urriolaitia", "guests": 1 },
     { "name": "Cristina Chocobar", "guests": 2 },
@@ -23,7 +23,7 @@
     { "name": "Diego Gramajo", "guests": 2 },
     { "name":"Ruben Ruiz", "guests": 4 },
     { "name":"Veronica Avila", "guests":1},
-    { "name": "Nazareno Orarola", "guests": 2 },
+    { "name": "Nazareno Otarola", "guests": 2 },
     { "name": "Clara Castaño", "guests": 1 },
     { "name": "Luis Gomez", "guests": 2 },
     { "name": "Blanca Aguirre", "guests": 1 },
@@ -115,9 +115,10 @@
     { "name": "Joaquin Lobo", "guests": 1 },
     { "name": "Santiago Albarracin", "guests": 1 },
     { "name": "Esteban Salvatierra", "guests": 1 },
-    { "name": "Juan Juarez", "guests": 1 },
+    { "name": "Juan Martin Valdez", "guests": 1 },
     { "name": "Vero Rocha", "guests": 1 },
     { "name": "Oscar Saavedra (hijo)", "guests": 1 },
+    { "name": "Eugenia Ramirez", "guests": 1 },
     { "name": "Fabiana Bustos", "guests": 1 }
   ]
   
